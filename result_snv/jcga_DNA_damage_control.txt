@@ -1,0 +1,169 @@
+SLX4,1.91
+LUSC (484): 3.5 / LUAD (473): 2.1 / ESCC (95): 3.2 / EAC (88): 1.1 / GAC (431): 5.1 / CRC (575): 3.8 / HCC (360): 0.8 / CCA (48): 2.1 / PDAC (159): 0.0 / HNSCC (508): 1.2 / PTC (483): 0.2 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 1.1 / pRCC (278): 1.1 / chRCC (66): 0.0 / BUC (405): 4.0 / PCa (488): 0.2 / TGCT (124): 0.0 / CSCC (234): 1.7 / CAC (46): 2.2 / EC (488): 7.0 / UCS (56): 0.0 / OSC (400): 1.0 / IDC (749): 0.7 / ILC (154): 1.9 / SKCM (466): 5.2 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 1.1 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.5 / AML (122): 0.0 / DLBCL (47): 2.1 / THYM (110): 0.0
+SLX4 p.P469Hfs*4,3.1
+SLX4 p.R1779W,1.6
+SLX4 p.P133L,1.0
+SLX4 p.E817K,1.0
+SLX4 p.P260Lfs*11,1.0
+SLX4 p.A1755V,1.0
+SLX4 p.R204H,1.0
+SLX4 p.A227T,1.0
+SLX4 p.S1508L,1.0
+SLX4 p.R939W,0.5
+
+POLD1,1.24
+LUSC (484): 1.2 / LUAD (473): 0.8 / ESCC (95): 1.1 / EAC (88): 1.1 / GAC (431): 3.0 / CRC (575): 4.7 / HCC (360): 1.4 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 0.4 / PTC (483): 0.0 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.8 / pRCC (278): 1.4 / chRCC (66): 0.0 / BUC (405): 1.5 / PCa (488): 0.2 / TGCT (124): 0.0 / CSCC (234): 0.8 / CAC (46): 0.0 / EC (488): 6.2 / UCS (56): 0.0 / OSC (400): 0.2 / IDC (749): 0.5 / ILC (154): 0.0 / SKCM (466): 2.1 / UM (79): 0.0 / LPS (52): 1.9 / LMS (91): 0.0 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.5 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.0 / AML (122): 0.0 / DLBCL (47): 2.1 / THYM (110): 0.0
+POLD1 p.P116Hfs*53,3.2
+POLD1 p.X987_splice,1.6
+POLD1 p.V392M,1.6
+POLD1 p.T582M,1.6
+POLD1 p.R623W,1.6
+POLD1 p.R180Gfs*3,1.6
+POLD1 p.R180Efs*72,1.6
+POLD1 p.G178W,1.6
+POLD1 p.S816del,0.8
+POLD1 p.S879Y,0.8
+
+RECQL4,0.95
+LUSC (484): 1.0 / LUAD (473): 1.1 / ESCC (95): 0.0 / EAC (88): 3.4 / GAC (431): 3.9 / CRC (575): 1.7 / HCC (360): 1.9 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 1.0 / PTC (483): 0.0 / ACC (90): 2.2 / PPGL (178): 0.0 / ccRCC (360): 0.3 / pRCC (278): 0.0 / chRCC (66): 0.0 / BUC (405): 1.0 / PCa (488): 0.4 / TGCT (124): 0.0 / CSCC (234): 2.6 / CAC (46): 0.0 / EC (488): 3.3 / UCS (56): 0.0 / OSC (400): 0.0 / IDC (749): 0.3 / ILC (154): 0.0 / SKCM (466): 1.5 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 1.1 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 0.5 / GBM (367): 0.3 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.0
+RECQL4 p.H81Ifs*2,2.1
+RECQL4 p.A516V,2.1
+RECQL4 p.P299L,1.1
+RECQL4 p.P285Hfs*8,1.1
+RECQL4 p.P1173L,1.1
+RECQL4 p.P1087S,1.1
+RECQL4 p.L885P,1.1
+RECQL4 p.L692del,1.1
+RECQL4 p.L374Qfs*51,1.1
+RECQL4 p.K332N,1.1
+
+TERT,0.81
+LUSC (484): 0.8 / LUAD (473): 0.8 / ESCC (95): 1.1 / EAC (88): 0.0 / GAC (431): 1.6 / CRC (575): 1.0 / HCC (360): 0.3 / CCA (48): 0.0 / PDAC (159): 1.3 / HNSCC (508): 0.6 / PTC (483): 0.4 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.8 / pRCC (278): 1.4 / chRCC (66): 0.0 / BUC (405): 0.5 / PCa (488): 0.0 / TGCT (124): 0.0 / CSCC (234): 1.3 / CAC (46): 0.0 / EC (488): 2.2 / UCS (56): 0.0 / OSC (400): 0.5 / IDC (749): 0.5 / ILC (154): 0.7 / SKCM (466): 2.4 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 0.0 / UPS (46): 4.3 / MPM (78): 1.3 / AC (190): 0.5 / OAC (129): 0.0 / ODG (185): 0.5 / GBM (367): 1.1 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.0
+TERT p.R742C,2.5
+TERT p.D860=,2.5
+TERT p.P614L,2.5
+TERT p.Y405C,1.2
+TERT p.Y386*,1.2
+TERT p.X823_splice,1.2
+TERT p.V977L,1.2
+TERT p.V920I,1.2
+TERT p.V897M,1.2
+TERT p.V741L,1.2
+
+RAD54L,0.71
+LUSC (484): 0.6 / LUAD (473): 1.1 / ESCC (95): 0.0 / EAC (88): 0.0 / GAC (431): 1.2 / CRC (575): 1.2 / HCC (360): 0.0 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 0.8 / PTC (483): 0.0 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.6 / pRCC (278): 0.0 / chRCC (66): 0.0 / BUC (405): 1.7 / PCa (488): 0.2 / TGCT (124): 0.0 / CSCC (234): 1.7 / CAC (46): 0.0 / EC (488): 3.5 / UCS (56): 3.6 / OSC (400): 0.8 / IDC (749): 0.5 / ILC (154): 0.0 / SKCM (466): 0.2 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 0.0 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.3 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.9
+RAD54L p.A506V,2.8
+RAD54L p.L55F,2.8
+RAD54L p.R75Q,2.8
+RAD54L p.R319W,2.8
+RAD54L p.P15H,2.8
+RAD54L p.R13K,1.4
+RAD54L p.R106C,1.4
+RAD54L p.Q90E,1.4
+RAD54L p.Q69H,1.4
+RAD54L p.Q310R,1.4
+
+MUTYH,0.66
+LUSC (484): 1.0 / LUAD (473): 0.6 / ESCC (95): 0.0 / EAC (88): 1.1 / GAC (431): 1.6 / CRC (575): 1.2 / HCC (360): 0.3 / CCA (48): 2.1 / PDAC (159): 0.6 / HNSCC (508): 0.6 / PTC (483): 0.0 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.6 / pRCC (278): 0.7 / chRCC (66): 0.0 / BUC (405): 0.7 / PCa (488): 0.2 / TGCT (124): 0.0 / CSCC (234): 0.4 / CAC (46): 0.0 / EC (488): 1.8 / UCS (56): 0.0 / OSC (400): 0.2 / IDC (749): 0.3 / ILC (154): 0.7 / SKCM (466): 2.6 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 0.0 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.5 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.5 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.0
+MUTYH p.T474M,3.0
+MUTYH p.S321L,3.0
+MUTYH p.R271W,3.0
+MUTYH p.R113W,3.0
+MUTYH p.M487T,1.5
+MUTYH p.L97M,1.5
+MUTYH p.L83V,1.5
+MUTYH p.L448P,1.5
+MUTYH p.L398P,1.5
+MUTYH p.L266V,1.5
+
+POLH,0.61
+LUSC (484): 0.8 / LUAD (473): 0.2 / ESCC (95): 1.1 / EAC (88): 1.1 / GAC (431): 1.6 / CRC (575): 1.6 / HCC (360): 0.0 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 0.6 / PTC (483): 0.0 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.8 / pRCC (278): 0.4 / chRCC (66): 0.0 / BUC (405): 2.0 / PCa (488): 0.0 / TGCT (124): 0.0 / CSCC (234): 0.0 / CAC (46): 0.0 / EC (488): 2.9 / UCS (56): 1.8 / OSC (400): 0.2 / IDC (749): 0.4 / ILC (154): 0.7 / SKCM (466): 0.4 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 0.0 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.0 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.0
+POLH p.R81C,3.3
+POLH p.S409Y,3.3
+POLH p.F18Lfs*12,3.3
+POLH p.E159Q,3.3
+POLH p.A49T,1.6
+POLH p.R383C,1.6
+POLH p.M595I,1.6
+POLH p.P508L,1.6
+POLH p.P643L,1.6
+POLH p.Q38L,1.6
+
+PARP2,0.60
+LUSC (484): 1.2 / LUAD (473): 0.8 / ESCC (95): 0.0 / EAC (88): 0.0 / GAC (431): 1.9 / CRC (575): 1.2 / HCC (360): 0.3 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 0.8 / PTC (483): 0.0 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.0 / pRCC (278): 0.0 / chRCC (66): 0.0 / BUC (405): 0.7 / PCa (488): 0.0 / TGCT (124): 0.0 / CSCC (234): 0.8 / CAC (46): 0.0 / EC (488): 2.2 / UCS (56): 3.6 / OSC (400): 0.5 / IDC (749): 0.3 / ILC (154): 0.0 / SKCM (466): 1.1 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 1.1 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.5 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.0
+PARP2 p.M432I,5.0
+PARP2 p.E189K,1.7
+PARP2 p.D95E,1.7
+PARP2 p.D465N,1.7
+PARP2 p.D410H,1.7
+PARP2 p.D182A,1.7
+PARP2 p.D113H,1.7
+PARP2 p.A85V,1.7
+PARP2 p.A541dup,1.7
+PARP2 p.A336V,1.7
+
+FANCG,0.54
+LUSC (484): 0.8 / LUAD (473): 0.8 / ESCC (95): 0.0 / EAC (88): 1.1 / GAC (431): 1.2 / CRC (575): 0.9 / HCC (360): 0.0 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 0.2 / PTC (483): 0.2 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.6 / pRCC (278): 0.4 / chRCC (66): 0.0 / BUC (405): 0.5 / PCa (488): 0.2 / TGCT (124): 0.0 / CSCC (234): 0.0 / CAC (46): 0.0 / EC (488): 2.7 / UCS (56): 1.8 / OSC (400): 0.0 / IDC (749): 0.3 / ILC (154): 0.7 / SKCM (466): 1.5 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 0.0 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.0 / AML (122): 0.0 / DLBCL (47): 2.1 / THYM (110): 0.0
+FANCG p.R242Q,3.7
+FANCG p.L203S,3.7
+FANCG p.R214H,3.7
+FANCG p.V471Wfs*47,3.7
+FANCG p.R353S,1.9
+FANCG p.S387Pfs*16,1.9
+FANCG p.S287C,1.9
+FANCG p.S237*,1.9
+FANCG p.S11N,1.9
+FANCG p.R98Q,1.9
+
+PARP3,0.51
+LUSC (484): 0.4 / LUAD (473): 1.3 / ESCC (95): 0.0 / EAC (88): 2.3 / GAC (431): 1.4 / CRC (575): 1.4 / HCC (360): 0.0 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 0.2 / PTC (483): 0.0 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.3 / pRCC (278): 0.0 / chRCC (66): 0.0 / BUC (405): 0.7 / PCa (488): 0.0 / TGCT (124): 0.0 / CSCC (234): 0.8 / CAC (46): 0.0 / EC (488): 1.6 / UCS (56): 0.0 / OSC (400): 0.0 / IDC (749): 0.4 / ILC (154): 0.7 / SKCM (466): 0.9 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 0.0 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 1.1 / GBM (367): 0.3 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.0
+PARP3 p.R408C,3.9
+PARP3 p.P312S,3.9
+PARP3 p.M402T,2.0
+PARP3 p.S275Y,2.0
+PARP3 p.S110*,2.0
+PARP3 p.R448T,2.0
+PARP3 p.R317L,2.0
+PARP3 p.R317*,2.0
+PARP3 p.R179W,2.0
+PARP3 p.Q356*,2.0
+
+RAD51C,0.46
+LUSC (484): 1.0 / LUAD (473): 0.6 / ESCC (95): 0.0 / EAC (88): 0.0 / GAC (431): 0.7 / CRC (575): 0.9 / HCC (360): 0.0 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 0.6 / PTC (483): 0.0 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.0 / pRCC (278): 0.0 / chRCC (66): 0.0 / BUC (405): 1.5 / PCa (488): 0.0 / TGCT (124): 0.0 / CSCC (234): 0.4 / CAC (46): 4.3 / EC (488): 1.2 / UCS (56): 0.0 / OSC (400): 0.0 / IDC (749): 0.4 / ILC (154): 0.0 / SKCM (466): 1.1 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 0.0 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.3 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.0
+RAD51C p.R249C,6.5
+RAD51C p.Y224H,4.3
+RAD51C p.D167N,4.3
+RAD51C p.X49_splice,2.2
+RAD51C p.X233_splice,2.2
+RAD51C p.X135_splice,2.2
+RAD51C p.V350I,2.2
+RAD51C p.V15M,2.2
+RAD51C p.T349A,2.2
+RAD51C p.T120Qfs*21,2.2
+
+RAD51B,0.36
+LUSC (484): 1.0 / LUAD (473): 0.8 / ESCC (95): 0.0 / EAC (88): 0.0 / GAC (431): 0.2 / CRC (575): 0.3 / HCC (360): 0.6 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 0.2 / PTC (483): 0.0 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.0 / pRCC (278): 0.4 / chRCC (66): 0.0 / BUC (405): 1.0 / PCa (488): 0.4 / TGCT (124): 0.0 / CSCC (234): 0.0 / CAC (46): 0.0 / EC (488): 1.4 / UCS (56): 1.8 / OSC (400): 0.2 / IDC (749): 0.1 / ILC (154): 0.7 / SKCM (466): 0.4 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 0.0 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.3 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.0
+RAD51B p.E363*,5.6
+RAD51B p.E248A,2.8
+RAD51B p.E198*,2.8
+RAD51B p.E168Q,2.8
+RAD51B p.D272Y,2.8
+RAD51B p.D221H,2.8
+RAD51B p.D210V,2.8
+RAD51B p.A328S,2.8
+RAD51B p.A239V,2.8
+RAD51B p.A222T,2.8
+
+RAD51D,0.35
+LUSC (484): 0.8 / LUAD (473): 1.1 / ESCC (95): 0.0 / EAC (88): 0.0 / GAC (431): 0.9 / CRC (575): 0.5 / HCC (360): 0.8 / CCA (48): 0.0 / PDAC (159): 0.0 / HNSCC (508): 0.4 / PTC (483): 0.0 / ACC (90): 0.0 / PPGL (178): 0.0 / ccRCC (360): 0.0 / pRCC (278): 0.0 / chRCC (66): 0.0 / BUC (405): 1.2 / PCa (488): 0.2 / TGCT (124): 0.0 / CSCC (234): 0.0 / CAC (46): 0.0 / EC (488): 1.2 / UCS (56): 0.0 / OSC (400): 0.0 / IDC (749): 0.3 / ILC (154): 0.0 / SKCM (466): 0.0 / UM (79): 0.0 / LPS (52): 0.0 / LMS (91): 0.0 / UPS (46): 0.0 / MPM (78): 0.0 / AC (190): 0.0 / OAC (129): 0.0 / ODG (185): 0.0 / GBM (367): 0.0 / AML (122): 0.0 / DLBCL (47): 0.0 / THYM (110): 0.0
+RAD51D p.G139V,2.9
+RAD51D p.E104G,2.9
+RAD51D p.D174V,2.9
+RAD51D p.A59D,2.9
+RAD51D p.A321T,2.9
+RAD51D p.A152D,2.9
+RAD51D p.G112C,2.9
+RAD51D p.G242Wfs*85,2.9
+RAD51D p.S298Y,2.9
+RAD51D p.G325D,2.9
+
